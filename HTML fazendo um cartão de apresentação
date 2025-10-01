@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Business Card</title>
+    <link href="styles.css" rel="stylesheet"/>
+</head>
+
+<body class="fundo">
+
+    <div class="business-card">
+
+        <img class="profile-image" src="https://cdn.freecodecamp.org/curriculum/labs/flower.jpg" alt="uma flor rosa">
+
+    <p class="full-name">
+        Seu nome
+    </p>
+
+    <p class="designation">
+       viniciusst13@gmail.com
+    </p>
+
+    <p class="company">
+    freecodecamp
+    </p>          
+    <hr>
+
+    <p>Email: your-email@example.com</p>
+
+    <p>Phone: (123) 456-7890</p>
+
+  <a class="portfolio-link" href="https://github.com/peropao">Portfolio</a> 
+
+    <hr>
+
+       <div class="social-media">
+
+    <h2>Connect with me</h2>
+<p>
+<a href="https://twitter.com/" target="_blank">Twitter</a><br>
+  <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a><br>
+  <a href="https://github.com/" target="_blank">GitHub</a></p>
+    </div> 
+
+    </div>    
+
+    
+
+</body>
+
+</html>
