@@ -4,17 +4,19 @@
 <head>
     <meta charset="utf-8">
     <title>Styled To-Do List</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
-<body>
+<body class="fundo">
 
+    <h1 class="titulo">Qual ração comprar?</h1>
 
     <ul class="todo-list">
         <li>
         <input id="golden" type="checkbox"></input>
         <label for="golden">golden</label>
              <ul class="sub-item">
-              <li><a class="sub-item-link" href="https://www.petlove.com.br/racao-golden-gatos-adultos---carne-310001/p" target="_blank">gato castrado carne 10kg</a><li>
+              <li><a class="sub-item-link" href="https://www.petlove.com.br/racao-golden-gatos-adultos---carne-310001/p" target="_blank">gato castrado carne 10kg</a></li>
             </ul>   
         </li>
 
@@ -23,7 +25,7 @@
         <label for="premiatta">premiatta</label>
 
            <ul class="sub-item">
-              <li><a class="sub-item-link" href="https://www.petlove.com.br/racao-golden-gatos-adultos---carne-310001/p" target="_blank">gato castrado carne 10kg</a><li>
+              <li><a class="sub-item-link" href="https://www.petlove.com.br/racao-golden-gatos-adultos---carne-310001/p" target="_blank">gato castrado carne 10kg</a></li>
             </ul>  
         </li>
 
@@ -33,15 +35,16 @@
         <label for="premier">premier</label>
 
            <ul class="sub-item">
-              <li><a class="sub-item-link" href="https://www.petlove.com.br/racao-golden-gatos-adultos---carne-310001/p" target="_blank">gato castrado carne 10kg</a><li>
+              <li><a class="sub-item-link" href="https://www.petlove.com.br/racao-golden-gatos-adultos---carne-310001/p" target="_blank">gato castrado carne 10kg</a></li>
             </ul> 
-
+        </li>
+        
          <li>
         <input id="special-dog" type="checkbox"></input>
        <label for="special-dog">special dog</label>
 
              <ul class="sub-item">
-              <li><a class="sub-item-link" href="https://www.petlove.com.br/racao-golden-gatos-adultos---carne-310001/p" target="_blank">gato castrado carne 10kg</a><li>
+              <li><a class="sub-item-link" href="https://www.petlove.com.br/racao-golden-gatos-adultos---carne-310001/p" target="_blank">gato castrado carne 10kg</a></li>
             </ul>  
         </li>
              
