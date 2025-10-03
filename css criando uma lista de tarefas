@@ -1,0 +1,40 @@
+a {text-decoration: none; 
+ color: white;
+
+}
+
+a:active {
+  color: red;
+
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:visited {
+
+
+  color: purple;
+}
+
+.todo-list {
+
+  background-color: hotpink;
+}
+
+.fundo {
+
+  background-color: pink;
+}
+
+.sub-item-link:focus {
+    outline: 3px solid red;
+    outline-offset: 3px;
+    border-radius: 4px;
+}
+
+.titulo {
+text-align: center;
+
+}
