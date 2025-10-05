@@ -19,7 +19,7 @@
               <li><a class="sub-item-link" href="https://www.petlove.com.br/racao-golden-gatos-adultos---carne-310001/p" target="_blank">gato castrado carne 10kg</a></li>
             </ul>   
         </li>
-
+<hr>
         <li>
         <input id="premiatta" type="checkbox"></input>
         <label for="premiatta">premiatta</label>
@@ -29,7 +29,7 @@
             </ul>  
         </li>
 
-
+<hr>
         <li>
         <input id="premier" type="checkbox"></input>
         <label for="premier">premier</label>
@@ -38,7 +38,7 @@
               <li><a class="sub-item-link" href="https://www.petlove.com.br/racao-golden-gatos-adultos---carne-310001/p" target="_blank">gato castrado carne 10kg</a></li>
             </ul> 
         </li>
-        
+        <hr>
          <li>
         <input id="special-dog" type="checkbox"></input>
        <label for="special-dog">special dog</label>
