@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Build an Event Flyer Page</title>
+  <link rel="stylesheet" href="styles.css" />
+
+<!-- irá para o proprio arquivo -->
+  
+<style>
+
+.corpo {
+width: 500px;
+padding-top: 50px;
+padding-bottom:50px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+margin-left: 0 auto;
+margin-right: 0 auto;
+text-align: center;
+}
+
+.imagem-sorvete {
+
+  width: 320px;
+
+}
+  
+</style>
+
+          
+  
+  
+</head>
+
+<body class="corpo">
+
+  <header>
+
+    <img class="imagem-sorvete" src="https://www.restodonte.com.br/recipePics/9900671.jpg?v132" href="https://www.restodonte.com.br/recipePics/9900671.jpg?v132" alt="sorvete de chocolate festival">
+    <h1>Festival do sorvete</h1>
+
+
+  </header>  
+
+    <hr>
+
+  <main>
+
+    <section>
+
+      <h2>Uma enorme variedade de sabores</h2>
+
+    </section>  
+
+
+    <section>
+
+      <h2> diversos casos de congelamento de cerebro<h2>
+
+    </section>  
+
+  </main>  
+</body>
+
+</html>
+
+
+
+
+
