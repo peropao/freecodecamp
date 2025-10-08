@@ -7,33 +7,6 @@
   <title>Build an Event Flyer Page</title>
   <link rel="stylesheet" href="styles.css" />
 
-<!-- irá para o proprio arquivo -->
-  
-<style>
-
-.corpo {
-width: 500px;
-padding-top: 50px;
-padding-bottom:50px;
-margin-top: 0px;
-margin-bottom: 0px;
-
-margin-left: 0 auto;
-margin-right: 0 auto;
-text-align: center;
-}
-
-.imagem-sorvete {
-
-  width: 320px;
-
-}
-  
-</style>
-
-          
-  
-  
 </head>
 
 <body class="corpo">
@@ -43,32 +16,48 @@ text-align: center;
     <img class="imagem-sorvete" src="https://www.restodonte.com.br/recipePics/9900671.jpg?v132" href="https://www.restodonte.com.br/recipePics/9900671.jpg?v132" alt="sorvete de chocolate festival">
     <h1>Festival do sorvete</h1>
 
+    <p><strong>Hoje 08/10/2025</strong> está começando o festival de sorvetes, venha experimentar!
+
 
   </header>  
 
     <hr>
 
   <main>
+    
+
+    <div>
 
     <section>
 
       <h2>Uma enorme variedade de sabores</h2>
 
+      <ul>
+        <li>morango</li>
+        <li>chocolate</li>
+        <li>sensação</li>
+      </ul>  
+
     </section>  
 
 
     <section>
 
-      <h2> diversos casos de congelamento de cerebro<h2>
+      <h2> diversos casos de congelamento de cerebro</h2>
+
+        <ul>
+        <li>Vinicius</li>
+        <li>Nicolas</li>
+        <li>Vitória</li>
+      </ul>  
 
     </section>  
 
+
+
+  
+  </div>
   </main>  
 </body>
 
 </html>
-
-
-
-
-
