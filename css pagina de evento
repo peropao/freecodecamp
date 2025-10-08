@@ -1,0 +1,48 @@
+.corpo {
+width: 90vw;
+min-height: calc(100vh - 100px);
+padding-top: 50px;
+padding-bottom:50px;
+margin-top: 0px;
+margin-bottom: 0px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+font-family: arial;
+}
+
+.imagem-sorvete {
+
+  width: 320px;
+
+}
+
+hr {
+
+  width: 50%;
+}
+
+div {
+  display: flex;
+  box-sizing: border-box;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  
+}
+
+section {
+
+  width: 50%
+}
+
+h2 {
+
+  font-size: 15px
+}
+
+li {
+
+  padding-right: 30px;
+}
