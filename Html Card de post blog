@@ -8,22 +8,9 @@
 </head>
 <body>
 
-    <div class="blog-post-card">
-
-        <img href="https://cdn.freecodecamp.org/curriculum/labs/cover-photo.jpg" src="https://cdn.freecodecamp.org/curriculum/labs/cover-photo.jpg" class="post-img" alt="apredendo-a-programar">
-
-        <div class="post-content">
-
-            <h2 class="post-title">Aprendendo a Programar</h2>
-
-            <p class="post-excerpt">Estou aprendendo a programar, vou dar meu maximo para ser um pouco melhor que a noite passada. aqui no github vai ficar registrado todo o meu progresso. </p>
-
-            <a class="read-more">Read More</a>
-
-
-
-        </div>    
-
+   
+ <div class="Posts">
+  
   <div class="blog-post-card">
 
         <img href="https://cdn.freecodecamp.org/curriculum/labs/cover-photo.jpg" src="https://cdn.freecodecamp.org/curriculum/labs/cover-photo.jpg" class="post-img" alt="apredendo-a-programar">
@@ -40,21 +27,7 @@
 
         </div>    
 
-  <div class="blog-post-card">
-
-        <img href="https://cdn.freecodecamp.org/curriculum/labs/cover-photo.jpg" src="https://cdn.freecodecamp.org/curriculum/labs/cover-photo.jpg" class="post-img" alt="apredendo-a-programar">
-
-        <div class="post-content">
-
-            <h2 class="post-title">Aprendendo a Programar</h2>
-
-            <p class="post-excerpt">Estou aprendendo a programar, vou dar meu maximo para ser um pouco melhor que a noite passada. aqui no github vai ficar registrado todo o meu progresso. </p>
-
-            <a class="read-more">Read More</a>
-
-
-
-        </div>    
+ 
 
 
 
@@ -62,9 +35,24 @@
     </div>
 
 
+ <div class="blog-post-card">
+
+        <img href="https://cdn.freecodecamp.org/curriculum/labs/cover-photo.jpg" src="https://cdn.freecodecamp.org/curriculum/labs/cover-photo.jpg" class="post-img" alt="apredendo-a-programar">
+
+        <div class="post-content">
+
+            <h2 class="post-title">Aprendendo a Programar</h2>
+
+            <p class="post-excerpt">Estou aprendendo a programar, vou dar meu maximo para ser um pouco melhor que a noite passada. aqui no github vai ficar registrado todo o meu progresso. </p>
+
+            <a class="read-more">Read More</a>
 
 
 
+        </div>    
+
+   
+    </div>
 
 
 
