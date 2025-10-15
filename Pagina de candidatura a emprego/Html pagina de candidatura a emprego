@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application Form</title>
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+
+        <form class="formulario">
+
+            <label for="nome">Nome Completo:</label>
+            <br>
+            <input type="text" id="nome" name="nome" required>
+<br>
+            <label for="email">Email:</label>
+            <br>
+            <input type="email" id="email" name="email" required>
+            <br>
+            <label for="position">Posição:</label>
+            <br>
+            <select id="position" required>
+                <option>frentista</option>
+                <option>faxineiro</option>
+                <option>caixa</option>
+            </select>
+
+            <fieldset class="radio-group" type="checkbox" required>
+                <label>availability</label>
+                <br>
+                <input id="fulltime" type="radio" name="cargo"></input>
+                
+                <label for="fulltime">Disponivel Todo o Dia</label>
+                 
+                 <br>
+                  <input name="cargo" id="partialtime" type="radio"></input>
+                  <label for="partialtime">Disponivel Meio Periodo</label>
+
+
+            </fieldset>    
+
+<h2>Quais suas habilidades?</h2>
+        <textarea id="message">
+
+            
+           
+
+        </textarea>
+<br>
+
+        <input type="submit" class="botao"</input>
+
+        </form>
+
+    </div>    
+
+
+
+</body>
+</html>

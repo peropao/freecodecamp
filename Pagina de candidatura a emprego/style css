@@ -1,0 +1,73 @@
+.container {
+
+  padding: 50px;
+  font-family: arial;
+
+
+}
+
+#position {
+
+font-size: 1.1em;
+
+}
+
+#nome, #email, #position, #fulltime #partialtine, .radio-group  {
+
+  max-width: 75%;
+  min-width: 75%;
+margin-bottom: 10px;
+border-radius: 5px;
+}
+fieldset
+ {
+  margin-bottom: 10px;
+  border-radius: 5px; 
+  font-size: 0.9em;
+  
+}
+
+.radio-group{ margin-bottom: 10px;
+  border-radius: 5px; 
+
+
+}
+
+.container {
+
+  margin: 10px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color:gray;
+
+
+}
+
+.form {
+  background-color: white;
+  border-solid: 10px;
+
+}
+
+#message {
+
+  min-width: 50%;
+  min-height: 70px;
+
+}
+
+input:required {
+
+  border: 2px solid orange;
+
+}
+
+input, textarea:focus {
+
+  border: 2px solid blue;   
+}
+
+input:invalid {
+
+  border: 2px solid red
+}
