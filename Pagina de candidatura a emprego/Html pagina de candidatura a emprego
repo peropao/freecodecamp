@@ -12,9 +12,9 @@
 
         <form class="formulario">
 
-            <label for="nome">Nome Completo:</label>
+            <label for="name">Nome Completo:</label>
             <br>
-            <input type="text" id="nome" name="nome" required>
+            <input type="text" id="name" name="name" required>
 <br>
             <label for="email">Email:</label>
             <br>
@@ -31,13 +31,13 @@
             <fieldset class="radio-group" type="checkbox" required>
                 <label>availability</label>
                 <br>
-                <input id="fulltime" type="radio" name="cargo"></input>
+                <input id="fulltime" type="radio" name="availability"></input>
                 
                 <label for="fulltime">Disponivel Todo o Dia</label>
                  
                  <br>
-                  <input name="cargo" id="partialtime" type="radio"></input>
-                  <label for="partialtime">Disponivel Meio Periodo</label>
+                  <input id="availability" type="radio" name="availability"></input>
+                  <label for="availability">Disponivel Meio Periodo</label>
 
 
             </fieldset>    
@@ -51,7 +51,7 @@
         </textarea>
 <br>
 
-        <input type="submit" class="botao"</input>
+        <button type="submit" class="botao">Enviar</button>
 
         </form>
 
