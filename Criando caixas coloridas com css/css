@@ -1,0 +1,46 @@
+body{
+  width: auto;
+  background-color: #f4f4f4;
+  text-align: center;
+  font-family: arial;
+}
+
+.color-box{
+  display: inline-block;
+  width: 60px;
+  height: 50px;
+  border-radius: 5px;
+  margin: 5px;
+  
+
+}
+
+.color1 {
+  
+  background-color: #1492e9;
+
+}
+
+.color2 {
+
+  background-color: rgb(255, 0, 0);
+
+}
+
+.color3 {
+
+  background-color: orange;
+
+}
+
+.color4 {
+
+  background-color: hsl(79 100% 42.4%);
+
+}
+
+.color5 {
+
+  background-color: blue;
+
+}
