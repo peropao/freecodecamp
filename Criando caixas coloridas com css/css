@@ -15,32 +15,43 @@ body{
 
 }
 
+.color-grid{
+  box-shadow: 5px 3px 3px black;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;                      
+  }
+
 .color1 {
   
   background-color: #1492e9;
+  box-shadow: 5px 3px 3px black;
 
 }
 
 .color2 {
 
   background-color: rgb(255, 0, 0);
-
+  box-shadow: 5px 3px 3px black;
 }
 
 .color3 {
 
   background-color: orange;
+    box-shadow: 5px 3px 3px black;
 
 }
 
 .color4 {
 
   background-color: hsl(79 100% 42.4%);
+  box-shadow: 5px 3px 3px black;
 
 }
 
 .color5 {
 
   background-color: blue;
+    box-shadow: 5px 3px 3px black;
 
 }
