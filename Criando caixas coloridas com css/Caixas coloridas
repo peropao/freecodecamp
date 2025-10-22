@@ -1,57 +1,107 @@
-body{
-  width: auto;
-  background-color: #f4f4f4;
-  text-align: center;
-  font-family: arial;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colored Boxes</title>
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
 
-.color-box{
-  display: inline-block;
-  width: 60px;
-  height: 50px;
-  border-radius: 5px;
-  margin: 5px;
-  
+    <h1>Colored Boxes</h1>
 
-}
+    <div class="color-grid">
 
-.color-grid{
-  box-shadow: 5px 3px 3px black;
-  padding: 10px;
-  border: 2px solid black;
-  border-radius: 5px;                      
-  }
+        <div class="color-box color1" >
+        
+        </div>
+        <div class="color-box color2">
+        
+        </div>
 
-.color1 {
-  
-  background-color: #1492e9;
-  box-shadow: 5px 3px 3px black;
+        <div class="color-box color3">
+        
+        </div>
 
-}
+        <div class="color-box color4">
+        
+        </div>
 
-.color2 {
+        <div class="color-box color5">
+        
+        </div>
 
-  background-color: rgb(255, 0, 0);
-  box-shadow: 5px 3px 3px black;
-}
+        <br>
 
-.color3 {
+         <div class="color-grid2">
 
-  background-color: orange;
-    box-shadow: 5px 3px 3px black;
+        <div class="color-box color1" >
+        
+        </div>
+        <div class="color-box color2">
+        
+        </div>
 
-}
+        <div class="color-box color3">
+        
+        </div>
 
-.color4 {
+        <div class="color-box color4">
+        
+        </div>
 
-  background-color: hsl(79 100% 42.4%);
-  box-shadow: 5px 3px 3px black;
+        <div class="color-box color5">
+        
+        </div>
 
-}
+         <div class="color-grid2">
 
-.color5 {
+        <div class="color-box color1" >
+        
+        </div>
+        <div class="color-box color2">
+        
+        </div>
 
-  background-color: blue;
-    box-shadow: 5px 3px 3px black;
+        <div class="color-box color3">
+        
+        </div>
 
-}
+        <div class="color-box color4">
+        
+        </div>
+
+        <div class="color-box color5">
+        
+        </div>
+
+         <div class="color-grid2">
+
+        <div class="color-box color1" >
+        
+        </div>
+        <div class="color-box color2">
+        
+        </div>
+
+        <div class="color-box color3">
+        
+        </div>
+
+        <div class="color-box color4">
+        
+        </div>
+
+        <div class="color-box color5">
+        
+        </div>
+
+
+
+
+    </div>    
+
+
+
+</body>
+</html>
