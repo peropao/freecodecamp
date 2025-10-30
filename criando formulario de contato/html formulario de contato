@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Contact Form</title>
+    <link href="styles.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="form-container">
+
+        <form>
+
+            <h2> Amostra de Sache Gratuita</h2>
+
+        
+
+            <label for="nome">Seu Nome:</label>
+            <input type="text" name="nome" id="nome" required/>
+
+            <label for="email">Seu Email:</label>
+            <input name="email" id="email" type="email" required/>
+
+            <label for="descricao">Descreva Seu Pet:</label>
+            <textarea  id="descricao" name="descricao" 
+            maxlength="115"  minlength="10" 
+            rows="4" required></textarea>
+
+            <button type="submit">Submit</button>
+
+<br>
+
+        </form>
+
+    </div>
+
+
+</body>
+
+</html>
