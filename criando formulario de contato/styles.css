@@ -1,0 +1,78 @@
+
+
+body {
+
+background-color: blue;
+
+}
+
+.form-container {
+
+
+  background-color: white;
+border-radius: 5px;
+  width: 60vw;
+  
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  text-align: center
+
+}
+
+h2 {
+
+  padding-top: 15px;
+}
+
+
+form {
+   
+
+  font-family: arial;
+}
+
+label {
+
+  color:rgb(45, 44, 44);
+   display: block;
+  margin: 0.5rem 0;
+
+}
+
+input {
+
+  margin: 0 0 0 0;
+  width: auto;
+ padding: 0 0 0 0;
+
+}
+
+textarea {
+  display: block;
+  margin: auto;
+  width: auto;
+ 
+  
+  
+ padding: 0;
+
+}
+
+button{
+  display: block;
+  margin: 15px auto ;
+  padding: 8px 15px 8px 15px;
+  color: white;
+  Font-size: 2em;
+  border-radius: 5px;
+  background-color: blue;
+
+
+}
+
+button:hover {
+
+
+  background-color: rgb(243, 22, 22);
+}
