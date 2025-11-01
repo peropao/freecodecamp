@@ -2,6 +2,7 @@
   width: 500px;
   height: 600px;
   background-color: #4d0f00;
+  padding: 1px;
 }
 
 .frame {
@@ -13,5 +14,7 @@
 
 .one {
   width: 425px;
-
+  height: 150px;
+  background-color: #efb762;
+  margin: 20px auto;
 }
