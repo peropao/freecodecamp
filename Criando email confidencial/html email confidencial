@@ -15,7 +15,7 @@
 
     <p>Dear Agent S'more,</p>
 
-    <div id="confidential">CONFIDENTIAL</div>
+    <div id="confidential"></div>
      <div id="confidential"><h2>CONFIDENTIAL</h2></div>
 
   <p>We have an emergency. The secret formula for our <span class="blurred">Mega Marshmallow</span>has been compromised. This formula is what makes our marshmallows the fluffiest and most delicious.</p>

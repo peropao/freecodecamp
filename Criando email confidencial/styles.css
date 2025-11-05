@@ -1,12 +1,19 @@
+body {
 
+
+  background-color: rgb(255, 255, 204);
+
+}
 
 
 #email {
 
+  background-color: white;
+  
   padding: 50px;
   margin-top: 50px;
   width: 500px;
-  border: 2px;
+  border: 2px solid;
   box-sizing: border-box;
 
 
@@ -15,9 +22,11 @@
 #confidential, #top-secret {
 
   display:inline-block;
-  padding-left: 150px;
+  padding-left: 15px;
+  padding-right: 15px;
   margin-left: 50px;
-  border: solid red 2px;
+  color: red;
+  border: solid red 4px;
   transform: rotate(25deg)
 }
 
