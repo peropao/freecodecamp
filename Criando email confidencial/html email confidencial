@@ -15,8 +15,8 @@
 
     <p>Dear Agent S'more,</p>
 
-    <div id="confidential"></div>
-     <div id="confidential"><h2>CONFIDENTIAL</h2></div>
+    <div id="confidential"><h2>CONFIDENTIAL</h2></div>
+    
 
   <p>We have an emergency. The secret formula for our <span class="blurred">Mega Marshmallow</span>has been compromised. This formula is what makes our marshmallows the fluffiest and most delicious.</p>
   <p>We suspect that <span class="blurred">Professor Puff</span> is behind this. He has taken the formula to his hidden laboratory. Your mission is to <span class="blurred">infiltrate the lab</span> and secure the formula before it's too late.</p>

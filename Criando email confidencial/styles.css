@@ -1,6 +1,13 @@
+
+*{
+
+  font-family: arial;
+
+}
+
 body {
-
-
+  display: flex;
+  margin: 0 auto;
   background-color: rgb(255, 255, 204);
 
 }
@@ -11,7 +18,7 @@ body {
   background-color: white;
   
   padding: 50px;
-  margin-top: 50px;
+  margin: 50px auto 50px auto;
   width: 500px;
   border: 2px solid;
   box-sizing: border-box;
@@ -22,12 +29,13 @@ body {
 #confidential, #top-secret {
 
   display:inline-block;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 5px;
+  
   margin-left: 50px;
   color: red;
   border: solid red 4px;
-  transform: rotate(25deg)
+  transform: rotate(25deg);
+  border-radius: 10px;
 }
 
 .blurred{
