@@ -18,7 +18,7 @@ body{
   line-height: 0.8em;
   background-color: white;  
   border: 2px solid black;          
-  margin:0;border-radius:10px;              
+  margin:0;border-radius:10px;              box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
   color: #000000;
     display: flex;
   font-size: 20pt;
@@ -52,17 +52,31 @@ body{
 
 .middle {
   display: flex;
+  align-content: center;
+  
   justify-content: center;
+  
+  flex-wrap: wrap;
   flex-direction: column;
+  transform: scale(1.4);
 
 }
 
 .right {
  flex-direction: column-reverse;
-  padding-bottom: 3px;
+  margin-bottom: 50px;
   padding-right: 5px;
   display: flex;
   justify-content: flex-end;
+   top: -3px;
+  left: 40%;
+  transform: rotatex(180deg);
+   
 
+}
+
+.red {
+
+  color: red;
 
 }

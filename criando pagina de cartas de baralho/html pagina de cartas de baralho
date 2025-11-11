@@ -21,16 +21,29 @@
       </div> 
       <div class="card">
 
-        <div class="left"></div>
-        <div class="middle"></div>
-        <div class="right"></div>
+        <div class="left red">2<br>♦</div>
+        <div class="middle red">♦♦</div>
+        <div class="right red">2<br>♦</div>
       </div>
       <div class="card">
 
-        <div class="left"></div>
-        <div class="middle"></div>
-        <div class="right"></div>
+        <div class="left">3<br>♣</div>
+        <div class="middle">♣♣<br>♣</div>
+        <div class="right">3<br>♣</div>
       </div> 
+
+      <div class="card">
+        <div class="left">4<br>♣</div>
+        <div class="middle">♣♣<br>♣♣</div>
+        <div class="right">4<br>♣</div>
+      </div> 
+
+          <div class="card red">
+        <div class="left ">5<br>♦</div>
+        <div class="middle ">♦♦<br>♦<br>♦♦</div>
+        <div class="right">5<br>♦</div>
+      </div> 
+      
 
 
 
