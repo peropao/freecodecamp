@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Selection Feature Page</title>
+    <link href="styles.css" rel="stylesheet">
+</head>
+
+<body>
+ <h1>Feature Selection</h1>
+ <div class="feature-card-container">
+
+    <label class="feature-card" id="fps" names="fps">FPS Games<input type="checkbox"></label>
+    
+
+
+    <label class="feature-card" id="fps" names="fps">
+Strategy<input type="checkbox"></label>
+    <label class="feature-card" id="vr" name="vr">VR games<input type="checkbox"></label>
+
+
+
+
+  </div>   
+</body>
+
+</html>
