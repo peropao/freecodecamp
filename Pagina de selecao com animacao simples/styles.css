@@ -29,8 +29,8 @@ input[type="checkbox"]:checked {
 }
 
 input[type="checkbox"]:checked:after {
-  
- justify-content: center;
+  height: 50px;
+
   content:"✓";
   color:white;
   
@@ -40,7 +40,7 @@ input[type="checkbox"]:checked:after {
 .feature-card{
 
   margin: 1em;
-  Padding: 1em 2em;
+  Padding: 20px 50px;
   border-radius: 15px;
  border: 2px solid rgb(79, 79, 79);
   transition: box-shadow 0.4s ease, border 0.4s ease;
