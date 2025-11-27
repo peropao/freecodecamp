@@ -9,6 +9,9 @@
 
 <body>
  <h1>Feature Selection</h1>
+ <h3>Escolha 3 gêneros favoritos</h3>
+ 
+ <section>
  <div class="feature-card-container">
 
     <label class="feature-card" id="fps" names="fps">FPS Games<input type="checkbox"></label>
@@ -18,11 +21,23 @@
     <label class="feature-card" id="fps" names="fps">
 Strategy<input type="checkbox"></label>
     <label class="feature-card" id="vr" name="vr">VR games<input type="checkbox"></label>
+</section>
+</div>   
+
+<div class="feature-card-container">
+
+  <label class="feature-card" id="fps" names="fps">Family<input type="checkbox"></label>
+    
+
+
+    <label class="feature-card" id="fps" names="fps">
+Sport<input type="checkbox"></label>
+    <label class="feature-card" id="vr" name="vr">Card Game<input type="checkbox"></label>
+</section>
 
 
 
-
-  </div>   
+  </div>
 </body>
 
 </html>
