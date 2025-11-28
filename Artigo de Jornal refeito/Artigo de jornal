@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newspaper Article</title>
+    <link href="styles.css" rel="">
+
+  </head>
+  <body>
+
+    <div class="newspaper">
+      
+<h3>Adrenaline</h3>
+
+
+      <h1 class="headline">Steam Frame: conheça o headset VR da Valve feito para jogar sua Steam inteira sem fios</h1>
+
+      <h3 class="sub-headline">Conheça o headset que rastreia seu olhar para priorizar pixels e jogos.</h3>
+      <p class="date">12/11/2025 16:38</p>
+      <p class="author">Gustavo Bonato Abrão
+
+<p class="text">O Steam Frame é a nova investida da Valve no mercado de realidade virtual. O headset, anunciado oficialmente hoje (12) é o primeiro dispositivo VR da empresa com funcionamento totalmente sem cabos e forte integração com a biblioteca Steam.
+  </p>
+<p class="text">Com proposta voltada para transmissão local via rede Wi-Fi 6E, o equipamento também conta com modo autônomo e traz um recurso inédito na linha: transmissão foveada, que prioriza a qualidade visual com base no rastreamento ocular do usuário.
+  </p>
+
+    </div>
+
+  </body>
+</html>
