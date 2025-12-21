@@ -1,0 +1,91 @@
+* {
+
+      text-align:center;
+        font-family: arial;
+
+
+        }
+
+
+        .read {
+
+          background-image: #15b315;
+          background: linear-gradient(90deg, rgba(21, 179, 21, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(175, 237, 83, 1) 100%);
+          }
+
+          .in-progress {
+
+
+          background-image: #b02020;
+          background: linear-gradient(90deg, rgba(245, 32, 32, 1) 0%, rgba(38, 209, 109, 1) 50%, rgba(41, 156, 0, 1) 100%);
+
+          }
+
+          .to-read {
+
+
+            background-image: #f55353;
+            background: linear-gradient(90deg, rgba(245, 83, 83, 1) 0%, rgba(255, 255, 255, 1) 71%);
+
+            }
+
+            span{
+            display:inline-block;
+
+            }
+
+            tr.read span[class="status"] {
+
+            padding: 2px;
+            border: 2px solid green;
+            border-radius: 10px;
+            background-image: background: #15b315;
+            background: linear-gradient(90deg, rgba(21, 179, 21, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(21, 210, 21, 1) );
+
+
+            }
+
+            tr.to-read span[class="status"] {
+
+            padding: 2px;
+            border: 2px solid green;
+            border-radius: 10px;
+            background-image: #b02020;
+            background: linear-gradient(90deg, rgba(245, 32, 32, 1) 0%, rgba(3245, 32, 32, 1) 50%, rgba(41, 156, 0, 1) 100%);
+
+            }
+
+            tr.in-progress span[class="status"] {
+
+
+            padding: 2px;
+            border: 2px solid green;
+            border-radius: 10px;
+            background-image: #b02020;
+            background: linear-gradient(90deg, rgba(245, 32, 32, 1) 0%, rgba(41, 156, 0, 1) 50%, rgba(41, 156, 0, 1) 100%);
+
+
+
+
+            }
+
+            span [class="status"], span[class="rate"] {
+
+              height: 2rem;
+                width:1rem;
+                  padding: 5px;
+                  }
+
+                  span.rate {
+
+
+
+                  padding: 2px;
+                  border: 2px solid green;
+                  border-radius: 10px;
+                  background-image: #b02020;
+                  background: linear-gradient(90deg, rgba(245, 32, 32, 1) 0%, rgba(41, 156, 0, 1) 50%, rgba(41, 156, 0, 1) 100%);
+
+
+                  }
+}

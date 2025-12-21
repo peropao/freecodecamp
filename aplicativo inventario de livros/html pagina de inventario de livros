@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+    <title>Book Inventory</title>
+      <link rel="stylesheet" href="styles.css">
+      </head>
+
+      <body>
+
+        <h1> Book Inventory</h1>
+
+          <table class="tabela">
+
+            <thead>  
+              <tr>
+                  <th>Title</th>
+                      <th>Author</th>
+                          <th>Category</th>
+                              <th>Status</th>
+                                  <th>Rate</th>
+                                    </tr>
+                                      </thead>
+                                        <tbody>
+                                          <tr class="read">
+                                              <td class="Read">The Plague</td>
+                                                  <td class="Read">Albert Camus</td>
+                                                      <td class="Read">Philosophical Novel</td>
+                                                          <td class="Read"><span class="status">Read</span></td>
+                                                              <td class="Read"></td>
+                                                                </tr>  
+
+                                                                  <tr class="read">
+                                                                      <td class="Read">The Three Musketeers</td>
+                                                                          <td class="Read">	Alexandre Dumas</td>
+                                                                              <td class="Read">Historical Novel</td>
+                                                                                  <td ><span class="status">Read</span></td>
+                                                                                      <td class="Read"></td>
+                                                                                        </tr> 
+                                                                                          <tr class="in-progress">
+                                                                                              <td class="In Progress">Dead Souls</td>
+                                                                                                  <td class="In Progress">	Nikolai Gogol</td>
+                                                                                                      <td class="In Progress">Picaresque</td>
+                                                                                                          <td><span class="status">In Progress</span></td>
+                                                                                                              <td class="In Progress"></td>
+                                                                                                                </tr> 
+                                                                                                                  <tr class="read">
+                                                                                                                      <td class="Read"></td>
+                                                                                                                          <td class="Read"></td>
+                                                                                                                              <td class="Read"></td>
+                                                                                                                                  <td class="Read"><span class="status">Read</span></td>
+                                                                                                                                      <td class="Read"><<span class="Rate"><span class="one"></span>
+                                                                                                                                        <span class="two"></span>
+                                                                                                                                          <span class="three"></span>
+                                                                                                                                            </span></td>
+                                                                                                                                              </tr> 
+                                                                                                                                                <tr class="to-read">
+                                                                                                                                                    <td class="To Read"></td>
+                                                                                                                                                        <td class="To Read"></td>
+                                                                                                                                                            <td class="To Read"></td>
+                                                                                                                                                                <td class="To Read"><span class="status">To Read</span></td>
+                                                                                                                                                                    <td class="To Read"></td>
+                                                                                                                                                                      </tr> 
+                                                                                                                                                                      </tbody>
+
+                                                                                                                                                                        </table>  
+
+
+                                                                                                                                                                        </body>
+
+                                                                                                                                                                        </html>
