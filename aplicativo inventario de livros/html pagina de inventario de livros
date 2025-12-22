@@ -23,9 +23,9 @@
 
     <tbody>
       <tr class="read">
-        <td>The Plague</td>
-        <td>Albert Camus</td>
-        <td>Philosophical Novel</td>
+        <td>Harry Potter</td>
+        <td>J. K. Rowling</td>
+        <td>Fantasy</td>
         <td><span class="status">Read</span></td>
         <td><span class="rate two">
          <span></span>
@@ -59,12 +59,12 @@
       </tr>
 
       <tr class="read">
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>The Witcher</td>
+        <td>Andrzej Sapkowski</td>
+        <td>Fantasy</td>
         <td><span class="status">Read</span></td>
         <td class="Rate">
-          <span class="rate two">
+          <span class="rate three">
          <span></span>
          <span></span>
          <span></span>
@@ -73,9 +73,9 @@
       </tr>
 
       <tr class="to-read">
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>The Plague</td>
+        <td>Albert Camus</td>
+        <td>Philosophical Novel</td>
         <td><span class="status">To Read</span></td>
         <td>
         <span class="rate three">
