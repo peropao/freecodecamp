@@ -9,7 +9,7 @@
         table {
 
           margin: 0 auto;
-          
+          border-collapse: collapse;
 
         }
 
@@ -62,7 +62,7 @@
             border: 2px solid green;
             border-radius: 10px;
             background-image: #b02020;
-            background: linear-gradient(90deg, rgba(245, 32, 32, 1) 0%, rgba(3245, 32, 32, 1) 50%, rgba(41, 156, 0, 1) 100%);
+            background: linear-gradient(90deg, rgba(245, 32, 32, 1) 0%, rgba(245, 32, 32, 1) 50%, rgba(41, 156, 0, 1) 100%);
 
             }
 
@@ -91,7 +91,7 @@
                   
 span[class^="rate"] > span{
    display: inline-block;
-   margin: auto ;
+  
    height: 5px;
    width: 5px;
    background-color: transparent;
